@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\atelier2-AlexMontmorency\RevisionExam1\RevisionExam1\bin\Debug\RevisionExam1.exe.config
+C:\Users\Alex\source\repos\atelier2-AlexMontmorency\RevisionExam1\RevisionExam1\bin\Debug\RevisionExam1.exe
+C:\Users\Alex\source\repos\atelier2-AlexMontmorency\RevisionExam1\RevisionExam1\bin\Debug\RevisionExam1.pdb
+C:\Users\Alex\source\repos\atelier2-AlexMontmorency\RevisionExam1\RevisionExam1\obj\Debug\RevisionExam1.csproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\atelier2-AlexMontmorency\RevisionExam1\RevisionExam1\obj\Debug\RevisionExam1.Form1.resources
+C:\Users\Alex\source\repos\atelier2-AlexMontmorency\RevisionExam1\RevisionExam1\obj\Debug\RevisionExam1.Properties.Resources.resources
+C:\Users\Alex\source\repos\atelier2-AlexMontmorency\RevisionExam1\RevisionExam1\obj\Debug\RevisionExam1.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\atelier2-AlexMontmorency\RevisionExam1\RevisionExam1\obj\Debug\RevisionExam1.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\atelier2-AlexMontmorency\RevisionExam1\RevisionExam1\obj\Debug\RevisionExam1.exe
+C:\Users\Alex\source\repos\atelier2-AlexMontmorency\RevisionExam1\RevisionExam1\obj\Debug\RevisionExam1.pdb
